@@ -10,8 +10,8 @@ function Experience() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-5">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">Full Stack Developer <span className="h6">at Coding Gujju</span></h5>
-                                    <p className="mb-0">APR 2020 - PRESENT</p>
+                                    <h5 className="card-title fw-bold">Internship <span className="h6">at Coding Gujju</span></h5>
+                                    <p className="mb-0">6th june - 24th june</p>
                                 </div>
                             </div>
                         </div>
@@ -20,8 +20,8 @@ function Experience() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-3">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">FrontEnd Developer <span className="h6">at Microsoft</span></h5>
-                                    <p className="mb-0">APR 2013 - APR 2016</p>
+                                    <h5 className="card-title fw-bold">Internship<span className="h6">CreArt Sollution</span></h5>
+                                    <p className="mb-0">20th june - 13th july</p>
                                 </div>
                             </div>
                         </div>

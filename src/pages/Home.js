@@ -7,14 +7,14 @@ function Home() {
             <div className="container pt-5 d-flex flex-column align-items-center">
                 <img src={avtar} width={200} alt="Kikani Jinal" />
                 <h1>Kikani jinal</h1>
-                <h4>(Software Engineer)</h4>
+                <h4>(Frontend Developer)</h4>
                 <p className="text-center border-bottom pb-3">Right now i'm in Silver Oak University pursuing 5thSemester in B.Tech IT. I'm an enginer and I love to design as well as code.</p>
                 <p className="text-center">
                     <span className="d-mobile-block">Email: kikanijinal@gmail.com</span>
                     <span className="d-none d-web-contents"> | </span>
-                    <span className="d-mobile-block">Phone: +91-9888888888</span>
+                    <span className="d-mobile-block">Phone: +91-6352429529</span>
                 </p>
-                <p className="text-center">Address: 33, ipsum dolor sit amet, Ahmedabad. IN - 222222</p>
+                <p className="text-center">Sardardham, AHMedabad-382481</p>
             </div>
             <hr />
             <div className="container">
@@ -28,13 +28,13 @@ function Home() {
                                         <div>
                                             <p className="mb-0">HTML</p>
                                             <div className="progress">
-                                                <div className="progress-bar" role="progressbar" style={{ width: "50%" }}>50%</div>
+                                                <div className="progress-bar" role="progressbar" style={{ width: "95%" }}>95%</div>
                                             </div>
                                         </div>
                                         <div className="pt-3">
                                             <p className="mb-0">CSS</p>
                                             <div className="progress">
-                                                <div className="progress-bar" role="progressbar" style={{ width: "60%" }} >60%</div>
+                                                <div className="progress-bar" role="progressbar" style={{ width: "80%" }} >80%</div>
                                             </div>
                                         </div>
                                     </div>
