@@ -20,7 +20,7 @@ function Experience() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-3">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">Internship<span className="h6">CreArt Sollution</span></h5>
+                                    <h5 className="card-title fw-bold">Internship <span className="h6">at CreArt Sollution</span></h5>
                                     <p className="mb-0">20th june - 13th july</p>
                                 </div>
                             </div>

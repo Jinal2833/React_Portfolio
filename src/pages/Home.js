@@ -5,9 +5,9 @@ function Home() {
     return (
         <div className="min-h-screen">
             <div className="container pt-5 d-flex flex-column align-items-center">
-                <img src={avtar} width={200} alt="Kikani Jinal" />
+                <img src={avtar} height={200} style={{borderRadius:"50%"}} alt="Kikani Jinal" />
                 <h1>Kikani jinal</h1>
-                <h4>(Frontend Developer)</h4>
+                <h4>Frontend Developer</h4>
                 <p className="text-center border-bottom pb-3">Right now i'm in Silver Oak University pursuing 5thSemester in B.Tech IT. I'm an enginer and I love to design as well as code.</p>
                 <p className="text-center">
                     <span className="d-mobile-block">Email: kikanijinal@gmail.com</span>

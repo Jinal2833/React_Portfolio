@@ -10,7 +10,7 @@ function Education() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-5">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">Bachelor of Engineering<span className="h6">from Silver Oak University</span></h5>
+                                    <h5 className="card-title fw-bold">Bachelor of Engineering <span className="h6">from Silver Oak University</span></h5>
                                     <p className="mb-0">2020 - 2024</p>
                                 </div>
                             </div>
@@ -20,7 +20,7 @@ function Education() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-5">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">HSC Board<span className="h6">Kaushalya Vidhyalaya</span></h5>
+                                    <h5 className="card-title fw-bold">HSC Board <span className="h6">from Kaushalya Vidhyalaya</span></h5>
                                     <p className="mb-0">2018 - 2020</p>
                                 </div>
                             </div>
