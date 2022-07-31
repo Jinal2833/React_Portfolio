@@ -6,7 +6,7 @@ function Home() {
         <div className="min-h-screen">
             <div className="container pt-5 d-flex flex-column align-items-center">
                 <img src={avtar} height={200} style={{borderRadius:"50%"}} alt="Kikani Jinal" />
-                <h1>Kikani jinal</h1>
+                <h1>Jinal Kikani</h1>
                 <h4>Frontend Developer</h4>
                 <p className="text-center border-bottom pb-3">Right now i'm in Silver Oak University pursuing 5thSemester in B.Tech IT. I'm an enginer and I love to design as well as code.</p>
                 <p className="text-center">
@@ -14,7 +14,7 @@ function Home() {
                     <span className="d-none d-web-contents"> | </span>
                     <span className="d-mobile-block">Phone: +91-6352429529</span>
                 </p>
-                <p className="text-center">Sardardham, AHMedabad-382481</p>
+                <p className="text-center">Sardardham, Ahmedabad-382481</p>
             </div>
             <hr />
             <div className="container">
